@@ -17,7 +17,7 @@
          offset="0"
          id="stop33" /></linearGradient><linearGradient
        id="swatch29"><stop
-         style="stop-color:#404040;stop-opacity:1;"
+         style="stop-color:#1a1a1a;stop-opacity:1;"
          offset="0"
          id="stop29" /></linearGradient><linearGradient
        id="swatch27"><stop
@@ -85,7 +85,8 @@
        y1="39.305103"
        x2="38.188995"
        y2="39.305103"
-       gradientUnits="userSpaceOnUse" /><linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0714286,0,-3.0579489)" /><linearGradient
        xlink:href="#swatch27"
        id="linearGradient27"
        x1="28.993814"
@@ -191,12 +192,12 @@
        id="layer1"
        transform="matrix(0.7894968,0,0,1,4.1483427,-1.7091427)"
        style="display:inline"><rect
-         style="display:inline;fill:url(#linearGradient26);fill-opacity:1;stroke:none;stroke-width:2.53818;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;fill:url(#linearGradient26);fill-opacity:1;stroke:none;stroke-width:2.62727;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          id="rect46-6-6-6-7"
          width="17.732815"
-         height="7"
+         height="7.5"
          x="20.456181"
-         y="35.805103" /><rect
+         y="35.304661" /><rect
          style="display:inline;fill:url(#linearGradient25);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.17558;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          id="rect46-6-6-6-7-9"
          width="22.799332"
