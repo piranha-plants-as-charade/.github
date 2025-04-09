@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../branding/logo-light.svg" />
-  <img src="../branding/logo-dark.svg" alt="logo" height="250px" />
+  <img src="../branding/logo-color.svg" alt="logo" height="250px" />
 </picture>
 
 # Piranha Plants as Charade
